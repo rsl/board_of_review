@@ -1,4 +1,8 @@
-board_of_review
+Board of Review
 ===============
 
-Comment spam detection and marking system
+A comment spam detection and marking system.
+
+Which you can find here: https://github.com/rsl/bored_of_review
+
+This here is just dummy repo to catch people who mishear the intentional pun of the gem name.
